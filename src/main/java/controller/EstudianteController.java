@@ -17,7 +17,7 @@ public class EstudianteController extends Estudiante implements Serializable {
   
     public EstudianteController() {
     }
-    
+    //hola
     public String inserta (){
         
         if (EstudianteGestion.insertar(this)){
